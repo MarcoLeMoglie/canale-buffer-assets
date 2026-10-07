@@ -643,5 +643,5 @@ we really all win.
 And with this in mind, let's close
 
 162
-00:06:28,600 --> 00:06:29,600
+00:06:28,600 --> 00:06:30,033
 our analysis.

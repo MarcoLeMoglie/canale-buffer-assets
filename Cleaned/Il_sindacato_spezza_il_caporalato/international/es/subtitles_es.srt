@@ -643,5 +643,5 @@ enganchar realmente somos todos.
 Y con este punto cerramos
 
 162
-00:06:28,600 --> 00:06:29,600
+00:06:28,600 --> 00:06:30,033
 nuestro análisis
