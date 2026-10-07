@@ -350,6 +350,16 @@
         "last_updated": "2026-09-27T15:34:16.444562",
         "status": "Pulito"
     },
+    "Il_sindacato_spezza_il_caporalato": {
+        "youtube_id": "zGApfh9BXiI",
+        "youtube_url": "https://www.youtube.com/watch?v=zGApfh9BXiI",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Da fare",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "I Migliori Video di Cosa Fanno Gli Economisti",
+        "shorts": [],
+        "last_updated": "2026-10-07T13:18:04.501259"
+    },
     "Istituzioni_e_Sviluppo_qje_2014": {
         "youtube_id": "zAwp-Sswzdw",
         "youtube_url": "https://www.youtube.com/watch?v=zAwp-Sswzdw",
@@ -588,25 +598,27 @@
         "youtube_id": "xeOgif93ifA",
         "youtube_url": "https://www.youtube.com/watch?v=xeOgif93ifA",
         "facebook_url": "Sospeso",
-        "instagram_url": "Da pubblicare",
+        "instagram_url": "Programmato 2026-10-05 10:00 Europe/Rome (Buffer 6ac22d6bd8dbde86e14281bc, status=scheduled)",
         "facebook_cover_status": "Sospeso",
-        "playlist": "I Migliori Video di Cosa Fanno Gli Economisti",
+        "playlist": "Economia Politica e Istituzioni",
         "shorts": [
             {
-                "id": "",
-                "youtube_url": "",
+                "id": "jPQwPA6Q7Hg",
+                "youtube_url": "https://youtube.com/shorts/jPQwPA6Q7Hg",
                 "angle": "1",
-                "status": "Pulito",
-                "ig_reel_url": "Da pubblicare",
+                "status": "Uploaded",
+                "ig_reel_url": "Programmato 2026-10-05 12:00 (Buffer 6ac22e4a11a7340ba0226466, status=scheduled)",
                 "local_path": "/Users/<USER>/Desktop/canale/Cleaned/La_politica_e_piu_rischiosa/La_politica_e_piu_rischiosa_short1_cleaned.mp4",
-                "updated": "2026-10-04T12:12:43+02:00"
+                "updated": "2026-10-04T12:45:30.392788",
+                "public_mp4_url": "https://raw.githubusercontent.com/MarcoLeMoglie/canale-buffer-assets/main/Cleaned/La_politica_e_piu_rischiosa/shorts/short1_cleaned.mp4",
+                "captions": "it,en,es,fr,de"
             }
         ],
-        "last_updated": "2026-10-04T12:41:18.374108",
+        "last_updated": "2026-10-04T12:45:30.392793",
         "title": "La politica \u00e8 pi\u00f9 rischiosa per le donne?",
         "status": "Pulito",
-        "workflow_step": "pulizia_completata_upload_non_avviato",
-        "upload": "NOT_STARTED",
+        "workflow_step": "upload_programmato_lun_5_ott",
+        "upload": "SCHEDULED",
         "publish_schedule": {
             "youtube_long": "2026-10-05T09:00:00+02:00",
             "instagram_post": "2026-10-05T10:00:00+02:00",
@@ -616,7 +628,7 @@
         "academic_title": "Attacking Women or their Policies? Understanding Violence against Women in Politics",
         "local_cleaned": "/Users/<USER>/Desktop/canale/Cleaned/La_politica_e_piu_rischiosa/La_politica_e_piu_rischiosa_cleaned.mp4",
         "local_infographic": "/Users/<USER>/Desktop/canale/Cleaned/La_politica_e_piu_rischiosa/infografica_cleaned.png",
-        "note": "Pulizia 2026-10-04 fatta. Upload NON avviato. Pub lun 5 ott Europe/Rome: YT long 09:00, IG foto 10:00, Short+Reel 12:00. Titolo in sovrimpressione del lungo lasciato \u00abDonne e Politica: Pi\u00f9 Rischi?\u00bb come deciso da Marco. Whisper/caption non generate in questo step."
+        "note": "Programmato lun 5 ott 2026 Europe/Rome, non pubblicato subito. YT long xeOgif93ifA private publishAt 09:00. IG foto Buffer 6ac22d6bd8dbde86e14281bc status=scheduled 10:00 (RGB PNG github, Buffer mime jpeg). YT short jPQwPA6Q7Hg private publishAt 12:00, caption IT/EN/ES/FR/DE. IG reel Buffer 6ac22e4a11a7340ba0226466 status=scheduled 12:00, mp4 github raw. Facebook sospeso. Catbox non usato: certificato intercettato Wind Tre sul Mac."
     },
     "La_ricchezza_e_meritata": {
         "youtube_id": "lo9tLAVcP0w",
