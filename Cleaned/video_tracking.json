@@ -130,10 +130,10 @@
         "status": "Pulito"
     },
     "Denunciare_aiuta_l_integrazione": {
-        "youtube_id": "bDLz2R0mVjY",
-        "youtube_url": "https://www.youtube.com/watch?v=bDLz2R0mVjY",
+        "youtube_id": "",
+        "youtube_url": "Rimosso",
         "facebook_url": "Sospeso",
-        "instagram_url": "Postato (Foto)",
+        "instagram_url": "Postato (Foto) https://www.instagram.com/p/DdvjnfWlpr_/ \u2014 infografica IG valida per il paper Dipoppa (tenuta da Marco 2026-10-08); caption da puntare a TvPEzdVmruA",
         "facebook_cover_status": "Sospeso",
         "playlist": "Economia della Cultura, Societ\u00e0 e Religione",
         "shorts": [
@@ -144,12 +144,21 @@
                 "status": "Uploaded",
                 "ig_reel_url": "Programmato (Reel) Buffer 6ab63fb0607bee5b032eacab @ 2026-09-26 12:00 CEST",
                 "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Denunciare_aiuta_l_integrazione/Denunciare_aiuta_l_integrazione_short1_cleaned.mp4",
-                "updated": "2026-09-25T11:33:02.962875",
-                "public_mp4_url": "https://litter.catbox.moe/iw7bh1.mp4"
+                "updated": "2026-10-08T18:10:00+02:00",
+                "public_mp4_url": "https://litter.catbox.moe/iw7bh1.mp4",
+                "note": "Short ancora pubblico; descrizione aggiornata 2026-10-08 \u2192 https://youtu.be/TvPEzdVmruA (era bDLz2R0mVjY, cancellato)"
             }
         ],
-        "last_updated": "2026-09-25T11:33:02.962877",
-        "status": "Pulito"
+        "last_updated": "2026-10-08T18:10:00+02:00",
+        "status": "Rimosso",
+        "removed_youtube_id": "bDLz2R0mVjY",
+        "removed": true,
+        "removed_note": "Long YT bDLz2R0mVjY cancellato da Marco il 2026-10-08: stesso paper (Dipoppa APSR 2025, DOI 10.1017/S0003055424001138) rifatto come \u00abIl sindacato spezza il caporalato?\u00bb. Non proporre mai (competitor, playlist, outreach).",
+        "replaced_by": {
+            "folder": "Il_sindacato_spezza_il_caporalato",
+            "youtube_id": "TvPEzdVmruA",
+            "youtube_url": "https://www.youtube.com/watch?v=TvPEzdVmruA"
+        }
     },
     "Dio_blocca_la_democrazia": {
         "youtube_id": "BFW6hmE5WiQ",
@@ -351,14 +360,48 @@
         "status": "Pulito"
     },
     "Il_sindacato_spezza_il_caporalato": {
-        "youtube_id": "zGApfh9BXiI",
-        "youtube_url": "https://www.youtube.com/watch?v=zGApfh9BXiI",
+        "youtube_id": "TvPEzdVmruA",
+        "youtube_url": "https://www.youtube.com/watch?v=TvPEzdVmruA",
         "facebook_url": "Sospeso",
-        "instagram_url": "Da fare",
+        "instagram_url": "Cancellato (Foto) da Marco 2026-10-08 \u2014 era Buffer 6ac62ab5dc114118aebda590 https://www.instagram.com/p/DeOdKWrmx-Z/. Infografica valida: Denunciare_aiuta_l_integrazione https://www.instagram.com/p/DdvjnfWlpr_/",
         "facebook_cover_status": "Sospeso",
-        "playlist": "I Migliori Video di Cosa Fanno Gli Economisti",
-        "shorts": [],
-        "last_updated": "2026-10-07T13:18:04.501259"
+        "playlist": "Economia del Lavoro, Discriminazione e Disuguaglianze",
+        "shorts": [
+            {
+                "id": "idVpcgUYLOQ",
+                "youtube_url": "https://youtube.com/shorts/idVpcgUYLOQ",
+                "angle": "1",
+                "status": "Uploaded",
+                "ig_reel_url": "Postato (Reel) https://www.instagram.com/reel/DeOrLZ6iZH2/ Buffer 6ac6435f6553ee16394faede @ 2026-10-08 12:04 CEST \u2014 valido (tenuto da Marco)",
+                "previous_id": "Pwf1XTCJodU",
+                "previous_ig_reel": "6ac62b663f62a9ae41a21c13",
+                "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Il_sindacato_spezza_il_caporalato/Il_sindacato_spezza_il_caporalato_short1_cleaned.mp4",
+                "public_mp4_url": "https://raw.githubusercontent.com/MarcoLeMoglie/canale-buffer-assets/ee3b26f/Cleaned/Il_sindacato_spezza_il_caporalato/shorts/short1_cleaned.mp4",
+                "updated": "2026-10-08T18:10:00+02:00"
+            }
+        ],
+        "last_updated": "2026-10-08T18:10:00+02:00",
+        "status": "Pulito",
+        "schedule_notes": {
+            "yt_long": "2026-10-08 09:00 Europe/Rome (publishAt 07:00Z) TvPEzdVmruA (was zGApfh9BXiI)",
+            "ig_photo": "2026-10-08 10:00 Europe/Rome Buffer 6ac62ab5dc114118aebda590",
+            "yt_short": "2026-10-08 12:00 Europe/Rome (publishAt 10:00Z) idVpcgUYLOQ (was Pwf1XTCJodU)",
+            "ig_reel": "2026-10-08 12:00 Europe/Rome Buffer 6ac6435f6553ee16394faede (new media; old 6ac62b663f62a9ae41a21c13 deleted if possible)",
+            "facebook": "Sospeso"
+        },
+        "playlist_also": "I Migliori Video di Cosa Fanno Gli Economisti (auto-catalog)",
+        "previous_youtube_id": "zGApfh9BXiI",
+        "retrim_note": "2026-10-07 NLM-outro-only: long 393.183\u2192390.083; short 83.615\u219280.504; keep full closing voice; YT reupload new ids (API cannot replace file)",
+        "instagram_infographic_ref": {
+            "folder": "Denunciare_aiuta_l_integrazione",
+            "url": "https://www.instagram.com/p/DdvjnfWlpr_/"
+        },
+        "supersedes": {
+            "folder": "Denunciare_aiuta_l_integrazione",
+            "youtube_id": "",
+            "note": "Video lungo YouTube bDLz2R0mVjY cancellato da Marco (confermato 2026-10-09): youtube_id/youtube_url svuotati; Short, Reel e infografica mantenuti.",
+            "youtube_url": ""
+        }
     },
     "Istituzioni_e_Sviluppo_qje_2014": {
         "youtube_id": "zAwp-Sswzdw",
@@ -584,6 +627,26 @@
         "last_updated": "2026-06-10T21:25:00.886890",
         "status": "Pulito"
     },
+    "La_matematica_e_da_maschi": {
+        "youtube_id": "qBUkBmvME98",
+        "youtube_url": "https://www.youtube.com/watch?v=qBUkBmvME98",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Postato (Foto)",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "Economia del Lavoro, Discriminazione e Disuguaglianze",
+        "shorts": [
+            {
+                "id": "bmdqe7iMfeM",
+                "youtube_url": "https://youtube.com/shorts/bmdqe7iMfeM",
+                "angle": "1",
+                "status": "Uploaded",
+                "ig_reel_url": "Da fare",
+                "local_path": "Cleaned/La_matematica_e_da_maschi/shorts/La_matematica_e_da_maschi_short1_cleaned.mp4",
+                "updated": "2026-10-11T21:54:30.516210"
+            }
+        ],
+        "last_updated": "2026-10-11T21:54:30.516215"
+    },
     "La_patata_ha_fatto_crescere_il_mondo": {
         "youtube_id": "GnIrqW1v6Dk",
         "youtube_url": "https://www.youtube.com/watch?v=GnIrqW1v6Dk",
@@ -741,14 +804,15 @@
         "status": "Pulito"
     },
     "Mafia_ed_elezioni_come_funziona": {
-        "youtube_id": "Postato",
-        "youtube_url": "Postato",
+        "youtube_id": "tQJ6_SSoMtQ",
+        "youtube_url": "https://www.youtube.com/watch?v=tQJ6_SSoMtQ",
         "facebook_url": "Postato (Foto)",
         "instagram_url": "Postato (Foto)",
         "facebook_cover_status": "Postato (Foto)",
         "playlist": "Economia del Crimine e Mafie",
         "last_updated": "2026-06-03T10:47:00.000000",
-        "status": "Pulito"
+        "status": "Pulito",
+        "tracking_fix_note": "2026-10-08: youtube_url/id corretti da API (video pubblico); prima 'Postato'/'Da pubblicare'"
     },
     "Mafia_in_azienda_quanto_costa": {
         "youtube_id": "QGC9Wl9Rkpo",
@@ -782,12 +846,13 @@
     },
     "Meno_lavoro_pi_violenza_domestica": {
         "youtube_id": "uJpOQe5_6XY",
-        "youtube_url": "Da pubblicare",
+        "youtube_url": "https://www.youtube.com/watch?v=uJpOQe5_6XY",
         "facebook_url": "Da fare",
         "instagram_url": "Da fare",
         "facebook_cover_status": "Mancante",
         "playlist": "Economia Politica e Istituzioni",
-        "last_updated": "2026-07-06T17:48:08.933128"
+        "last_updated": "2026-07-06T17:48:08.933128",
+        "tracking_fix_note": "2026-10-08: youtube_url/id corretti da API (video pubblico); prima 'Postato'/'Da pubblicare'"
     },
     "Meno_tasse_Colpa_degli_immigrati": {
         "youtube_id": "k8RxL9Y0pGI",
@@ -929,6 +994,26 @@
         "last_updated": "2026-09-02T11:48:14.366690",
         "status": "Pulito",
         "workflow_step": "upload_completato"
+    },
+    "Piu_petrolio_meno_democrazia": {
+        "youtube_id": "s-c8N5gQHSs",
+        "youtube_url": "https://www.youtube.com/watch?v=s-c8N5gQHSs",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Da fare",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "I Migliori Video di Cosa Fanno Gli Economisti",
+        "shorts": [
+            {
+                "id": "",
+                "youtube_url": "",
+                "angle": "1",
+                "status": "Cleaned",
+                "ig_reel_url": "Da fare",
+                "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Piu_petrolio_meno_democrazia/Piu_petrolio_meno_democrazia_short1_cleaned.mp4",
+                "updated": "2026-10-14T15:01:37.864183"
+            }
+        ],
+        "last_updated": "2026-10-14T15:35:24.677357"
     },
     "Poveri_in_Pensione": {
         "youtube_id": "4NW5LTBAqIg",
