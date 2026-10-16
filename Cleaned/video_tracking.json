@@ -170,6 +170,26 @@
         "status": "Pulito",
         "playlist": "Economia Politica e Istituzioni"
     },
+    "Edilizia_e_migranti_cosi_la_mafia_sale_al_Nord": {
+        "youtube_id": "08y54n2Fyvo",
+        "youtube_url": "https://www.youtube.com/watch?v=08y54n2Fyvo",
+        "facebook_url": "Sospeso",
+        "instagram_url": "Da fare",
+        "facebook_cover_status": "Sospeso",
+        "playlist": "Economia del Crimine e Mafie",
+        "shorts": [
+            {
+                "id": "",
+                "youtube_url": "",
+                "angle": "1",
+                "status": "Cleaned",
+                "ig_reel_url": "Da fare",
+                "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Edilizia_e_migranti_cosi_la_mafia_sale_al_Nord/Edilizia_e_migranti_cosi_la_mafia_sale_al_Nord_short1_cleaned.mp4",
+                "updated": "2026-10-16T10:29:00.568047"
+            }
+        ],
+        "last_updated": "2026-10-16T10:45:39.853237"
+    },
     "Espellere_gli_immigrati_riduce_la_criminalita": {
         "youtube_id": "lUsIyyxiNpM",
         "youtube_url": "https://www.youtube.com/watch?v=lUsIyyxiNpM",
@@ -999,21 +1019,22 @@
         "youtube_id": "s-c8N5gQHSs",
         "youtube_url": "https://www.youtube.com/watch?v=s-c8N5gQHSs",
         "facebook_url": "Sospeso",
-        "instagram_url": "Da fare",
+        "instagram_url": "Postato (Foto)",
         "facebook_cover_status": "Sospeso",
-        "playlist": "I Migliori Video di Cosa Fanno Gli Economisti",
+        "playlist": "Economia Politica e Istituzioni",
         "shorts": [
             {
-                "id": "",
-                "youtube_url": "",
+                "id": "qyFuJEcpCqk",
+                "youtube_url": "https://youtube.com/shorts/qyFuJEcpCqk",
                 "angle": "1",
-                "status": "Cleaned",
-                "ig_reel_url": "Da fare",
+                "status": "Uploaded",
+                "ig_reel_url": "Programmato (Reel)",
                 "local_path": "/Users/<USER>/Desktop/canale/Cleaned/Piu_petrolio_meno_democrazia/Piu_petrolio_meno_democrazia_short1_cleaned.mp4",
-                "updated": "2026-10-14T15:01:37.864183"
+                "updated": "2026-10-14T15:39:35.247795"
             }
         ],
-        "last_updated": "2026-10-14T15:35:24.677357"
+        "last_updated": "2026-10-14T15:39:35.247799",
+        "status": "Pulito"
     },
     "Poveri_in_Pensione": {
         "youtube_id": "4NW5LTBAqIg",

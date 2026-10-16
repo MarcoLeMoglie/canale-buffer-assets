@@ -1,0 +1,711 @@
+1
+00:00:00,000 --> 00:00:02,240
+Welcome to this new deep dive.
+
+2
+00:00:02,240 --> 00:00:05,520
+Today we tackle a crucial topic, and the title says it all.
+
+3
+00:00:05,520 --> 00:00:09,000
+Construction and migrants: how the mafia rises in the North.
+
+4
+00:00:09,000 --> 00:00:11,800
+We dive into a truly fascinating economic paper,
+
+5
+00:00:11,800 --> 00:00:14,720
+written by Gemma Dipoppa of Columbia University.
+
+6
+00:00:14,720 --> 00:00:17,920
+More than an academic essay, it reads almost like a historical thriller
+
+7
+00:00:17,920 --> 00:00:20,519
+which solves a decades-long economic mystery.
+
+8
+00:00:20,519 --> 00:00:22,400
+Let's get straight to the point.
+
+9
+00:00:22,400 --> 00:00:25,320
+The starting point is a real puzzle,
+
+10
+00:00:25,320 --> 00:00:27,480
+can be summed up in a simple question. Why
+
+11
+00:00:27,559 --> 00:00:30,359
+Why does the mafia expand in strong states?
+
+12
+00:00:30,359 --> 00:00:32,159
+Let's try to think about it for a moment.
+
+13
+00:00:32,159 --> 00:00:35,079
+Classical theory teaches us that criminal groups thrive
+
+14
+00:00:35,079 --> 00:00:37,480
+where the state is weak, or even absent,
+
+15
+00:00:37,480 --> 00:00:39,960
+offering a kind of parallel justice.
+
+16
+00:00:39,960 --> 00:00:42,920
+Yet history shows us that organized crime
+
+17
+00:00:42,920 --> 00:00:46,400
+manages to put down very solid roots in hyper-developed areas,
+
+18
+00:00:46,400 --> 00:00:49,799
+with strong institutions and an enviable civic sense.
+
+19
+00:00:49,799 --> 00:00:50,960
+But why?
+
+20
+00:00:50,960 --> 00:00:52,679
+What drives a criminal organization
+
+21
+00:00:52,679 --> 00:00:56,480
+to slip into an area where the police work very well? The
+
+22
+00:00:56,520 --> 00:00:59,200
+paradox of the strong state.
+
+23
+00:00:59,200 --> 00:01:01,680
+To understand something, we need to travel through time,
+
+24
+00:01:01,680 --> 00:01:04,400
+straight to northern Italy in the 1950s.
+
+25
+00:01:04,400 --> 00:01:06,400
+It is precisely in this precise historical moment
+
+26
+00:01:06,400 --> 00:01:09,200
+that the old economic theories begin to creak,
+
+27
+00:01:09,200 --> 00:01:11,680
+and the true mystery takes shape.
+
+28
+00:01:11,680 --> 00:01:15,080
+Let's focus on a very particular dynamic.
+
+29
+00:01:15,080 --> 00:01:19,680
+In a weak state, criminal organization replaces public power.
+
+30
+00:01:19,680 --> 00:01:21,280
+So far everything is clear.
+
+31
+00:01:21,280 --> 00:01:25,040
+But in a strong state, the rules are there, they work, and
+
+32
+00:01:25,040 --> 00:01:27,560
+and above all, having them broken is expensive.
+
+33
+00:01:27,560 --> 00:01:30,400
+We are talking about very high fines and criminal trials.
+
+34
+00:01:30,400 --> 00:01:32,800
+And this is where the short circuit occurs.
+
+35
+00:01:32,800 --> 00:01:35,840
+Paradoxically, it is precisely the efficiency of institutions
+
+36
+00:01:35,840 --> 00:01:39,560
+to create a market for a super-specific illicit service.
+
+37
+00:01:39,560 --> 00:01:44,200
+In practice, the criminal organization no longer protects against the absence of the State,
+
+38
+00:01:44,200 --> 00:01:46,680
+but protects from the very rules of the State,
+
+39
+00:01:46,680 --> 00:01:48,320
+allowing certain economic actors
+
+40
+00:01:48,320 --> 00:01:51,360
+to wallow in the shadows totally unpunished.
+
+41
+00:01:51,360 --> 00:01:52,800
+The economic miracle. The
+
+42
+00:01:52,840 --> 00:01:56,439
+The perfect ground for this exchange of favors is being created right now.
+
+43
+00:01:56,439 --> 00:01:59,679
+The Northern Regions are experiencing an incredible transformation,
+
+44
+00:01:59,679 --> 00:02:01,840
+an unprecedented urban expansion.
+
+45
+00:02:01,840 --> 00:02:06,560
+Cities that spread like wildfire, entire neighborhoods that literally pop up out of nowhere.
+
+46
+00:02:06,560 --> 00:02:08,639
+And to support this rhythm perhaps born,
+
+47
+00:02:08,639 --> 00:02:10,960
+construction companies find themselves in dire straits
+
+48
+00:02:10,960 --> 00:02:14,599
+and an uncontainable hunger for unskilled labor.
+
+49
+00:02:14,599 --> 00:02:18,960
+This dizzying growth triggers a huge demographic movement.
+
+50
+00:02:19,000 --> 00:02:22,680
+From the 60s onwards, as many as 4 million people left southern Italy
+
+51
+00:02:22,680 --> 00:02:25,800
+to move to the central north, in search of a better future.
+
+52
+00:02:25,800 --> 00:02:29,600
+Practically a quarter of the entire southern population of the time.
+
+53
+00:02:29,600 --> 00:02:33,600
+At the same time, the state decides to adopt a somewhat controversial policy.
+
+54
+00:02:33,600 --> 00:02:35,159
+The obligatory stay.
+
+55
+00:02:35,159 --> 00:02:39,120
+The idea was to eradicate the mafiosi from their land to make them harmless.
+
+56
+00:02:39,120 --> 00:02:40,240
+The result?
+
+57
+00:02:40,240 --> 00:02:44,159
+Many of these criminal leaders are sent into forced exile precisely
+
+58
+00:02:44,159 --> 00:02:47,879
+right in the richest and most vibrant cities of the north.
+
+59
+00:02:47,919 --> 00:02:50,079
+Demand and supply of illegal labor. It is
+
+60
+00:02:50,079 --> 00:02:52,599
+This is where the perfect accident happens.
+
+61
+00:02:52,599 --> 00:02:54,560
+On the one hand we have the local construction companies
+
+62
+00:02:54,560 --> 00:02:58,079
+with the desperate need to recruit laborers any day now.
+
+63
+00:02:58,079 --> 00:03:00,479
+On the other hand, thousands of newly arrived migrants,
+
+64
+00:03:00,479 --> 00:03:02,599
+with an absolute need to work immediately,
+
+65
+00:03:02,599 --> 00:03:04,719
+but without any protection.
+
+66
+00:03:04,719 --> 00:03:08,800
+The news of the time tell us about a real extra-legal labor market,
+
+67
+00:03:08,800 --> 00:03:13,479
+managed by criminal intermediaries directly in the railway station forecourts.
+
+68
+00:03:13,520 --> 00:03:18,280
+It was an informal arrangement, sure, but incredibly beneficial to those who made it. From
+
+69
+00:03:18,280 --> 00:03:21,960
+On the one hand, construction companies drastically reduced costs.
+
+70
+00:03:21,960 --> 00:03:24,400
+We are talking about costs literally halved,
+
+71
+00:03:24,400 --> 00:03:29,200
+evading taxes and contributions and solving the workforce problem in a couple of hours.
+
+72
+00:03:29,200 --> 00:03:33,080
+On the other hand, criminal groups pocketed a ridge from both the company and
+
+73
+00:03:33,080 --> 00:03:37,640
+than from the worker's meager pay, guaranteeing a constant cash flow.
+
+74
+00:03:37,640 --> 00:03:41,240
+But be careful! The real jackpot wasn't just money.
+
+75
+00:03:41,280 --> 00:03:44,800
+This system allowed them to enter the legal economic fabric, obtaining
+
+76
+00:03:44,800 --> 00:03:48,400
+obtaining widespread control of the new territory.
+
+77
+00:03:48,400 --> 00:03:51,600
+But why didn't anyone denounce this absurd exploitation?
+
+78
+00:03:51,600 --> 00:03:55,879
+The answer lies in a power dynamic that is brutal to say the least.
+
+79
+00:03:55,879 --> 00:03:59,560
+There is a chilling testimony from a trade unionist in 1972 who
+
+80
+00:03:59,560 --> 00:04:02,240
+which illustrates the situation perfectly.
+
+81
+00:04:02,240 --> 00:04:05,520
+When we speak, the workers remain silent.
+
+82
+00:04:05,520 --> 00:04:10,560
+Mafiosi carry out threatening acts to show workers that they are stronger than us.
+
+83
+00:04:10,560 --> 00:04:15,840
+These criminal intermediaries did not hide, on the contrary, they flaunted their strength.
+
+84
+00:04:15,840 --> 00:04:17,439
+The blackmail was merciless.
+
+85
+00:04:17,439 --> 00:04:21,639
+If you speak up, retaliation will hit your family down south.
+
+86
+00:04:21,639 --> 00:04:23,480
+Measuring the invisible.
+
+87
+00:04:23,480 --> 00:04:26,959
+So far the historical reconstruction is solid and gives shivers.
+
+88
+00:04:26,959 --> 00:04:30,639
+The problem is that economic research is not satisfied with stories,
+
+89
+00:04:30,639 --> 00:04:36,120
+requires empirical evidence. But how do you demonstrate a secret mechanism with data in hand,
+
+90
+00:04:36,120 --> 00:04:40,360
+born on purpose to leave no traces and escape the State's radar? For
+
+91
+00:04:40,360 --> 00:04:44,920
+To resolve this obstacle, the researcher had a brilliant intuition.
+
+92
+00:04:44,920 --> 00:04:48,720
+Given that before the 1990s the State did not measure mafia infiltration,
+
+93
+00:04:48,720 --> 00:04:51,240
+relied on data scraping.
+
+94
+00:04:51,240 --> 00:04:54,759
+Simply put, he combed through decades of journalistic archives,
+
+95
+00:04:54,759 --> 00:04:59,920
+extracting and cataloging over 5,000 news articles, starting from the 1950s.
+
+96
+00:04:59,920 --> 00:05:04,360
+A titanic job, which made it possible to find and trace the very first signs
+
+97
+00:05:04,360 --> 00:05:07,600
+of criminal infiltration in every single municipality. I
+
+98
+00:05:07,640 --> 00:05:10,760
+The results of this archive hunt are very clear.
+
+99
+00:05:10,760 --> 00:05:14,160
+Ideally comparing the historical news found in the newspapers
+
+100
+00:05:14,160 --> 00:05:17,760
+with official police and judiciary data of today,
+
+101
+00:05:17,760 --> 00:05:20,879
+there is practically millimetric overlap.
+
+102
+00:05:20,879 --> 00:05:28,000
+The articles of the 60s, 70s and 80s anticipated the maxi raids of the future in an almost prophetic way.
+
+103
+00:05:28,000 --> 00:05:31,879
+It is easy to understand where this mass of suspicious news was concentrated,
+
+104
+00:05:32,000 --> 00:05:34,839
+right around the poles experiencing maximum economic expansion, such as
+
+105
+00:05:34,839 --> 00:05:38,519
+such as Rome, Milan, Turin and Genoa.
+
+106
+00:05:38,519 --> 00:05:42,159
+A silent alarm that sounded very loud.
+
+107
+00:05:42,159 --> 00:05:43,920
+The data confirms the theory.
+
+108
+00:05:43,920 --> 00:05:47,159
+Once you have found the compass to measure the phenomenon reliably,
+
+109
+00:05:47,159 --> 00:05:50,040
+the research goes on the attack with statistical analysis.
+
+110
+00:05:50,040 --> 00:05:52,839
+The goal is to isolate the exact chemical combination
+
+111
+00:05:52,839 --> 00:05:55,120
+which made this criminal establishment explode,
+
+112
+00:05:55,120 --> 00:05:58,319
+cleaning the numbers from any other variables.
+
+113
+00:05:58,319 --> 00:06:01,639
+And here comes the truly crucial finding of the study. I
+
+114
+00:06:01,680 --> 00:06:03,039
+data speak clearly.
+
+115
+00:06:03,039 --> 00:06:06,240
+The mafia expansion exploded only and exclusively when
+
+116
+00:06:06,240 --> 00:06:09,360
+when the construction boom and the mass arrival of migrants
+
+117
+00:06:09,360 --> 00:06:11,879
+they happened at the same time.
+
+118
+00:06:11,879 --> 00:06:14,560
+A building boom alone, without vulnerable migrants,
+
+119
+00:06:14,560 --> 00:06:16,839
+it did not cause any increase in crime.
+
+120
+00:06:16,839 --> 00:06:20,079
+And a lot of migrants without construction sites ready to take on black jobs
+
+121
+00:06:20,079 --> 00:06:22,360
+it did not generate infiltrations.
+
+122
+00:06:22,360 --> 00:06:25,959
+It was the very precise intersection of these two elements
+
+123
+00:06:25,959 --> 00:06:30,240
+to really act as an accelerator for organized crime.
+
+124
+00:06:30,280 --> 00:06:33,600
+But there is a further detail, the real litmus test.
+
+125
+00:06:33,600 --> 00:06:35,800
+In certain situations the mafia expansion has been
+
+126
+00:06:35,800 --> 00:06:39,079
+literally zero. Absolute zero.
+
+127
+00:06:39,079 --> 00:06:42,319
+When migrants arrived from areas of the south where the mafia wasn't there,
+
+128
+00:06:42,319 --> 00:06:44,280
+the infiltration did not take root,
+
+129
+00:06:44,280 --> 00:06:46,360
+simply because the criminals lacked the weapon
+
+130
+00:06:46,360 --> 00:06:48,560
+the weapon of blackmail on the families left at home.
+
+131
+00:06:48,560 --> 00:06:51,120
+And the effect remained zero even in the city
+
+132
+00:06:51,120 --> 00:06:53,120
+which were growing dramatically in other sectors
+
+133
+00:06:53,120 --> 00:06:55,680
+such as metalworking or automobiles.
+
+134
+00:06:55,680 --> 00:06:57,879
+In those big factories there were unions, the
+
+135
+00:06:57,879 --> 00:06:59,240
+vigilance was strict,
+
+136
+00:06:59,240 --> 00:07:02,120
+hiring irregularly was almost impossible.
+
+137
+00:07:02,120 --> 00:07:04,400
+Without the safety valve of informal work,
+
+138
+00:07:04,400 --> 00:07:06,639
+crime remained dry.
+
+139
+00:07:06,639 --> 00:07:08,860
+Thus we enter the last phase,
+
+140
+00:07:08,860 --> 00:07:11,600
+beyond Italy, towards a global model.
+
+141
+00:07:11,600 --> 00:07:14,280
+The inestimable value of this research is that the
+
+142
+00:07:14,280 --> 00:07:16,519
+its conclusions cross national borders.
+
+143
+00:07:16,519 --> 00:07:19,639
+We are not examining just a fragment of Italian history,
+
+144
+00:07:19,639 --> 00:07:23,199
+we are decoding a truly global operating model.
+
+145
+00:07:23,199 --> 00:07:25,000
+It's a diagram that explains
+
+146
+00:07:25,000 --> 00:07:27,560
+perfectly of how criminal organizations move and thrive
+
+147
+00:07:27,560 --> 00:07:28,839
+around the world,
+
+148
+00:07:28,839 --> 00:07:32,440
+from the Russian mafia in Europe to the cartels in North America.
+
+149
+00:07:32,440 --> 00:07:34,759
+We are facing a massive paradigm shift
+
+150
+00:07:34,759 --> 00:07:36,440
+in economic theory.
+
+151
+00:07:36,440 --> 00:07:38,839
+It is essential to stop imagining criminals
+
+152
+00:07:38,839 --> 00:07:42,399
+criminals only as opportunists operating in the absence of the state.
+
+153
+00:07:42,399 --> 00:07:43,759
+On the contrary,
+
+154
+00:07:43,759 --> 00:07:46,600
+these organizations specialize in packaging
+
+155
+00:07:46,600 --> 00:07:48,759
+and sell an obscure service,
+
+156
+00:07:48,759 --> 00:07:50,880
+tailor-made specifically to circumvent the laws
+
+157
+00:07:50,880 --> 00:07:52,399
+laws of the strongest states.
+
+158
+00:07:52,399 --> 00:07:54,360
+These organizations become, in a pathological way,
+
+159
+00:07:54,360 --> 00:07:57,440
+of the complements of the advanced economic system,
+
+160
+00:07:57,440 --> 00:07:59,839
+offering companies an armored and structured way
+
+161
+00:07:59,839 --> 00:08:01,160
+to do dirty business,
+
+162
+00:08:01,160 --> 00:08:04,360
+minimizing the risk of ending up in prison.
+
+163
+00:08:04,360 --> 00:08:06,360
+And here we are at the final reflection.
+
+164
+00:08:06,360 --> 00:08:08,759
+If the real fuel for criminal expansion
+
+165
+00:08:08,759 --> 00:08:12,120
+in a strong state it is precisely an army of vulnerable workers
+
+166
+00:08:12,120 --> 00:08:13,600
+and unregulated,
+
+167
+00:08:13,600 --> 00:08:15,720
+then the cards on the table change.
+
+168
+00:08:15,720 --> 00:08:17,480
+Create legal entry routes,
+
+169
+00:08:17,480 --> 00:08:19,319
+support formal insertion and
+
+170
+00:08:19,319 --> 00:08:22,000
+and implement robust non
+
+171
+00:08:22,000 --> 00:08:23,880
+integration policies it is no longer just an ethical question.
+
+172
+00:08:23,880 --> 00:08:27,000
+With the accounts in hand it becomes the economic and institutional strategy
+
+173
+00:08:27,000 --> 00:08:30,040
+more devastating to remove the essential raw material
+
+174
+00:08:30,040 --> 00:08:32,000
+to organized crime.
+
+175
+00:08:32,000 --> 00:08:35,840
+Removing vulnerabilities means disarming infiltration.
+
+176
+00:08:35,840 --> 00:08:37,919
+That's a powerful shift in perspective, right?
+
+177
+00:08:37,919 --> 00:08:40,320
+Sincere thanks for your attention
+
+178
+00:08:40,320 --> 00:08:42,320
+to this exploration — and see you next time.
